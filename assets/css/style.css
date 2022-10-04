@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+label {
+    font-size: 1rem;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+span {
+    color: red;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 20px;
+    background-color: aqua;
+}
